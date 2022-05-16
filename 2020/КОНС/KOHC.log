@@ -1,0 +1,16 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Forces.cpp
+  KOHC.cpp
+d:\programmy\с++\вуз\kohc ver 1.11.18\kohc.cpp(28): warning C4996: 'CWinApp::Enable3dControlsStatic': CWinApp::Enable3dControlsStatic is no longer needed. You should remove this call.
+  d:\programmy\vis st\vis st\vc\tools\msvc\14.16.27023\atlmfc\include\afxwin2.inl(1077): note:  см. объявление "CWinApp::Enable3dControlsStatic"
+  KOHCDoc.cpp
+  KOHCView.cpp
+  MainFrm.cpp
+  Sections.cpp
+  Shifrator.cpp
+  Variants.cpp
+d:\programmy\с++\вуз\kohc ver 1.11.18\variants.cpp(143): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\programmy\с++\вуз\kohc ver 1.11.18\variants.cpp(145): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  KOHC.vcxproj -> D:\Programmy\С++\вуз\KOHC ver 1.11.18\x64\Release\KOHC.exe

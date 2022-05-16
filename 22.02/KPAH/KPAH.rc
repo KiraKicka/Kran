@@ -1,0 +1,663 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\KPAH.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_KPAH                BITMAP  DISCARDABLE     "res\\кран.bmp"
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+IDB_BITMAP1             BITMAP  DISCARDABLE     "res\\bitmap1.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 367
+        VERTGUIDE, 105
+        VERTGUIDE, 173
+        VERTGUIDE, 193
+        VERTGUIDE, 211
+        VERTGUIDE, 311
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 105
+        HORZGUIDE, 20
+        HORZGUIDE, 53
+        HORZGUIDE, 104
+    END
+
+    IDD_KRAN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 178
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 86
+    END
+
+    IDD_SIZES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 178
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 86
+    END
+
+    IDD_SECTIONS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 468
+        VERTGUIDE, 39
+        VERTGUIDE, 108
+        VERTGUIDE, 131
+        VERTGUIDE, 219
+        VERTGUIDE, 230
+        VERTGUIDE, 258
+        VERTGUIDE, 275
+        VERTGUIDE, 332
+        VERTGUIDE, 349
+        VERTGUIDE, 386
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 213
+        HORZGUIDE, 17
+        HORZGUIDE, 28
+        HORZGUIDE, 48
+        HORZGUIDE, 75
+        HORZGUIDE, 95
+        HORZGUIDE, 115
+        HORZGUIDE, 135
+        HORZGUIDE, 155
+    END
+
+    IDD_FORCES, DIALOG
+    BEGIN
+        VERTGUIDE, 224
+        VERTGUIDE, 269
+        VERTGUIDE, 315
+        HORZGUIDE, 42
+        HORZGUIDE, 53
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_SORTAMENT, DIALOG
+    BEGIN
+        VERTGUIDE, 224
+        VERTGUIDE, 269
+        VERTGUIDE, 315
+        HORZGUIDE, 42
+        HORZGUIDE, 53
+    END
+
+    IDD_FERMA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 178
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 86
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAIN DIALOGEX 0, 0, 374, 112
+STYLE WS_CHILD
+FONT 14, "MS Sans Serif"
+BEGIN
+    CTEXT           "ФАМИЛИЯ СТУДЕНТА",IDC_STATIC,7,9,98,11
+    CTEXT           "НОМЕР ВАРИАНТА",IDC_STATIC,7,45,98,8
+    EDITTEXT        IDC_STUDENT,7,20,98,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NUMSTU,7,57,98,12,ES_CENTER | ES_AUTOHSCROLL
+    PUSHBUTTON      "РЕГИСТРАЦИЯ",IDC_REGISTER,7,78,98,26
+    CONTROL         134,IDC_STATIC,"Static",SS_BITMAP | SS_CENTERIMAGE,111,7,
+                    256,97,WS_EX_STATICEDGE
+END
+
+IDD_KRAN DIALOG DISCARDABLE  0, 0, 185, 93
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "TODO: layout formview",IDC_STATIC,55,42,74,8
+END
+
+IDD_SIZES DIALOG DISCARDABLE  0, 0, 185, 93
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "TODO: layout formview",IDC_STATIC,55,42,74,8
+END
+
+IDD_SECTIONS DIALOG DISCARDABLE  0, 0, 475, 220
+STYLE WS_CHILD
+FONT 14, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_CTEP,39,28,69,47,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_NUMCTEP,117,28,29,12,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN1,"msctls_updown32",UDS_WRAP | 
+                    UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | 
+                    UDS_ARROWKEYS,124,28,6,11
+    COMBOBOX        IDC_TYPEPLAF,155,28,56,30,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_NUMPLAF,235,28,61,30,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_Ry,137,48,38,30,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_Rv,282,48,33,30,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "ПРОВЕРИТЬ",IDC_CHECK,326,48,60,11
+    CTEXT           "СТЕРЖЕНИ",IDC_STATIC,41,17,67,8
+    CTEXT           "ТИПА ПРОФИЛ",IDC_STATIC,155,17,60,8
+    LTEXT           "НОМЕР ПРОФИЛ",IDC_STATIC,235,17,63,8
+    GROUPBOX        "ПАРАМЕТРЫ ПРОФИЛЯ",IDC_STATIC,39,65,308,142
+    RTEXT           "Сопротивление текучести:",IDC_STATIC,39,48,92,8
+    RTEXT           "Сопротивление усталости:",IDC_STATIC,186,48,89,8
+    CTEXT           "НОМЕР",IDC_STATIC,113,17,37,8
+    RTEXT           "Площадь сечения двутавра:",IDC_STATIC1,41,95,105,8
+    RTEXT           "Момент инерции Х-Х двутавра:",IDC_STATIC2,191,95,111,8
+    RTEXT           "Момент инерции Y-Y двутавра:",IDC_STATIC3,41,115,105,8
+    RTEXT           "Толщина стенки двутавра:",IDC_STATIC4,191,115,111,8
+    RTEXT           "Ширина полки двутавра:",IDC_STATIC5,41,135,105,8
+    RTEXT           "Высота двутавра:",IDC_STATIC6,191,135,111,8
+    RTEXT           "Толщина полки двутавра:",IDC_STATIC7,41,155,105,8
+    RTEXT           "Расстояние от оси Х-Х тавра:",IDC_STATIC8,191,155,111,8
+    EDITTEXT        IDC_EDIT1,146,95,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,302,95,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,146,115,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,302,115,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,146,135,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,302,135,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,146,155,34,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,303,155,34,12,ES_CENTER | ES_AUTOHSCROLL
+END
+
+IDD_FORCES DIALOG DISCARDABLE  0, 0, 475, 220
+STYLE WS_CHILD
+FONT 14, "MS Sans Serif"
+BEGIN
+    CTEXT           "N(Q)",IDC_STATIC,130,65,40,11
+    CTEXT           "N(D)MAX",IDC_STATIC,175,65,40,11
+    CTEXT           "N(D)MIN",IDC_STATIC,221,65,40,11
+    GROUPBOX        "ГЛАВНАЯ ФЕРМА",IDC_STATIC,125,53,142,104
+    EDITTEXT        IDC_NBQ,130,76,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NBDMAX,175,76,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC1Q,130,126,40,12,ES_CENTER | ES_AUTOHSCROLL
+    GROUPBOX        "ГОРИЗОНТАЛЬНАЯ",IDC_STATIC,276,53,95,104
+    CTEXT           "N(QG)",IDC_STATIC,282,63,40,11
+    CTEXT           "N(DG)",IDC_STATIC,328,63,40,11
+    EDITTEXT        IDC_NBQG,282,74,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NBDG,328,74,40,12,ES_CENTER | ES_AUTOHSCROLL
+    GROUPBOX        "УСИЛИЯ В СТЕРЖНЯХ [КН] ",IDC_STATIC,85,42,293,124
+    PUSHBUTTON      "ПОКАЗАТЬ",IDC_SHOW,123,171,50,14
+    PUSHBUTTON      "СЛЕДУЮЩИ",IDC_NEXT,185,172,50,14
+    PUSHBUTTON      "РЕЗУЛЬТА",IDC_RESULT,251,173,50,14,WS_DISABLED
+    EDITTEXT        IDC_NHQ,130,92,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NHDMAX,175,92,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NPDMIN,221,109,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NPQ,130,109,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NPDMAX,175,109,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC1DMAX,175,125,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC2Q,130,143,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC2DMAX,175,142,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NHQG,282,90,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NHDG,327,92,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NPQG,282,108,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NPDG,327,108,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC1QG,282,125,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC1DG,327,124,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC2QG,282,140,40,12,ES_CENTER | ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC2DG,327,140,40,12,ES_CENTER | ES_AUTOHSCROLL
+    RTEXT           "ВЕРХНИ",IDC_STATIC,88,78,35,8
+    RTEXT           "НИЖНИЙ",IDC_STATIC,87,93,35,8
+    RTEXT           "РАСКОС",IDC_STATIC,87,110,35,8
+    RTEXT           "СТОЙК 1",IDC_STATIC,88,129,35,8
+    RTEXT           "СТОЙК 2",IDC_STATIC,88,146,35,8
+END
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About kpannnn"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "kpannnn Version 1.0",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2017",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_SORTAMENT DIALOG DISCARDABLE  0, 0, 475, 220
+STYLE WS_CHILD
+FONT 14, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_SIZ,"SysListView32",WS_BORDER | WS_TABSTOP,
+                    127,28,60,50
+END
+
+IDD_FERMA DIALOG DISCARDABLE  0, 0, 185, 93
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "TODO: layout formview",IDC_STATIC,55,42,74,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_SECTIONS DLGINIT
+BEGIN
+    IDC_CTEP, 0x403, 13, 0
+0xc5c2, 0xd5d0, 0xc8cd, 0x20c9, 0xcecf, 0xd1df, "\000" 
+    IDC_CTEP, 0x403, 12, 0
+0xc8cd, 0xcdc6, 0xc9c8, 0xcf20, 0xdfce, 0x00d1, 
+    IDC_CTEP, 0x403, 7, 0
+0xc0d0, 0xcad1, 0xd1ce, "\000" 
+    IDC_CTEP, 0x403, 7, 0
+0xd2d1, 0xc9ce, 0xc8ca, "\000" 
+    IDC_TYPEPLAF, 0x403, 5, 0
+0xe0d2, 0xf0e2, "\000" 
+    IDC_TYPEPLAF, 0x403, 8, 0
+0xe2c4, 0xf2f3, 0xe2e0, 0x00f0, 
+    IDC_TYPEPLAF, 0x403, 1, 0
+"\000" 
+    IDC_Ry, 0x403, 4, 0
+0x3532, 0x0030, 
+    IDC_Ry, 0x403, 4, 0
+0x3533, 0x0030, 
+    IDC_Ry, 0x403, 4, 0
+0x3534, 0x0030, 
+    IDC_Rv, 0x403, 3, 0
+0x3633, "\000" 
+    IDC_Rv, 0x403, 3, 0
+0x3537, "\000" 
+    IDC_Rv, 0x403, 3, 0
+0x3039, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  101, 22
+BEGIN
+    BUTTON      ID_MAIN
+    SEPARATOR
+    BUTTON      ID_KRAN
+    SEPARATOR
+    BUTTON      ID_FERMA
+    SEPARATOR
+    BUTTON      ID_SIZES
+    SEPARATOR
+    BUTTON      ID_FORCES
+    SEPARATOR
+    BUTTON      ID_SECTIONS
+    SEPARATOR
+    BUTTON      ID_SORTAMENT
+    SEPARATOR
+    BUTTON      ID_SNIP
+    SEPARATOR
+    BUTTON      ID_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "Файл"
+    BEGIN
+        MENUITEM "&New\tCtrl+N",                ID_FILE_NEW
+        MENUITEM "Открыть...\tCtrl+O",          ID_FILE_OPEN
+        MENUITEM "Сохранить\tCtrl+S",           ID_FILE_SAVE
+        MENUITEM "Сохранить как...",            ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "Выход",                       ID_APP_EXIT
+    END
+    POPUP "Навигация"
+    BEGIN
+        MENUITEM "Кран",                        ID_KRAN
+        MENUITEM "Ферма",                       ID_FERMA
+    END
+    POPUP "Вид"
+    BEGIN
+        MENUITEM "Панель инструментов",         ID_VIEW_TOOLBAR
+    END
+    POPUP "Справка"
+    BEGIN
+        MENUITEM "&About KPAH...",              ID_ABOUT
+    END
+    MENUITEM "На главную",                  65535
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "KPAH MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "KPAH\0"
+            VALUE "LegalCopyright", "Copyright (C) 2017\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "KPAH.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "KPAH Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_MAIN                 "Главное окно"
+    ID_SNIP                 "Справочные данные из СНиП II-23-81"
+    ID_KRAN                 "Демонстрация работы крана"
+    ID_FERMA                "Демонстрация усилий в стержнях фермы"
+    ID_SIZES                "Демонстрация конструкции и размеров крана"
+    ID_FORCES               "Проверка расчета усилий в стержнях фермы"
+    ID_SECTIONS             "Проверка подбора сечений стержней фермы"
+    ID_SORTAMENT            "Сортамент профилей проката"
+    ID_ABOUT                "Информация о программе"
+END
+
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\KPAH.ico"
+IDR_KPAHTYPE            ICON    DISCARDABLE     "res\\KPAHDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "KPAH\n\nKPAH\nKPAH Files (*.kpa)\n.kpa\nKPAH.Document\nKPAH Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "KPAH"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\KPAH.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

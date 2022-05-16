@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KOHC - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x419 /fo"Debug/KOHC.res" /d "_DEBUG" "C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KOHC\KOHC.rc"" 
+Creating temporary file "C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP1AE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/KOHC.pdb" /debug /machine:I386 /out:"Debug/KOHC.exe" /pdbtype:sept 
+".\Debug\Forces.obj"
+".\Debug\KOHC.obj"
+".\Debug\KOHCDoc.obj"
+".\Debug\KOHCView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Sections.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Variants.obj"
+".\Debug\KOHC.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP1AE.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+KOHC.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KPAH - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x419 /fo"Debug/KPAH.res" /d "_DEBUG" "C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\KPAH.rc"" 
+Creating temporary file "C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529B.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/KPAH.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Ferma.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Forces.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\KPAH.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\KPAHDoc.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\KPAHView.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Kran.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\MainFrm.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Sections.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Sizes.cpp"
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\Sortament.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529B.tmp" 
+Creating temporary file "C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529C.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/KPAH.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Admin\Рабочий стол\Программирование\v1.1\22.02\KPAH\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529C.tmp" 
+Creating temporary file "C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529D.tmp" with contents
+[
+opengl32.lib glu32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/KPAH.pdb" /debug /machine:I386 /out:"Debug/KPAH.exe" /pdbtype:sept 
+".\Debug\Ferma.obj"
+".\Debug\Forces.obj"
+".\Debug\KPAH.obj"
+".\Debug\KPAHDoc.obj"
+".\Debug\KPAHView.obj"
+".\Debug\Kran.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Sections.obj"
+".\Debug\Sizes.obj"
+".\Debug\Sortament.obj"
+".\Debug\StdAfx.obj"
+".\Debug\KPAH.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Admin\LOCALS~1\Temp\RSP529D.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Ferma.cpp
+Forces.cpp
+KPAH.cpp
+KPAHDoc.cpp
+KPAHView.cpp
+Kran.cpp
+MainFrm.cpp
+Sections.cpp
+Sizes.cpp
+Sortament.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+KPAH.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

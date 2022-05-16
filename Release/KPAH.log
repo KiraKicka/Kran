@@ -1,0 +1,356 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  StdAfx.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note:  см. объявление "MBCS_Support_Deprecated_In_MFC"
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ferma.cpp
+  Forces.cpp
+  KPAH.cpp
+  KPAHDoc.cpp
+  KPAHView.cpp
+  Kran.cpp
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(455): warning C4305: аргумент: усечение из "double" к "GLfloat"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(456): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(460): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(461): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(462): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\kran.cpp(502): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MainFrm.cpp
+  Panel.cpp
+  Sections.cpp
+  Sizes.cpp
+  Sortament.cpp
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(426): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(428): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(430): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(434): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(436): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(438): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(440): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(442): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(444): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(446): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(448): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(450): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(452): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(454): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(541): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(546): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(551): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(556): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(561): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(566): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(571): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(576): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(581): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(586): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(591): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(596): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(601): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(606): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(611): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(616): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(673): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(678): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(683): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(688): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(693): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(698): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(703): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(708): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(713): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(718): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(723): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(728): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(733): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(738): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(743): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(748): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(753): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(758): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(763): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(768): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(773): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(829): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(834): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(839): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(844): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(849): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(854): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(859): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(864): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(869): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(874): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(879): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(884): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(889): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(894): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(899): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(904): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(909): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(963): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(968): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(973): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(978): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(983): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(988): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(993): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(998): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1003): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1008): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1013): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1018): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1023): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1028): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1033): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1038): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1043): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1072): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1235): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1376): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1406): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1431): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1465): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1470): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1474): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1476): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1478): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1480): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1482): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1484): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1486): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1488): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1492): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1496): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1514): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1517): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1521): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1525): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1527): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1529): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1533): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1535): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1537): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1541): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1543): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1545): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1562): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1565): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1567): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1569): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1571): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1573): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1577): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1579): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1581): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1583): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1585): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1587): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1589): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1591): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1593): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1597): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1599): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1601): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1603): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1619): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1622): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1624): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1626): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1628): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1630): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1632): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1634): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1636): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1638): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1640): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1642): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1644): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1648): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1650): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1652): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1668): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1673): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1675): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1677): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1679): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1681): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1683): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1685): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1687): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1689): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1691): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1693): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1695): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1697): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1699): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1701): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1737): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1777): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1825): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1867): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1960): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1964): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1982): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1985): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1988): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(1993): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2010): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2013): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2015): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2018): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2037): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\programmy\с++\вуз\kpah ver  21.02.19 xp x86_32e2\sortament.cpp(2041): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+Ferma.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  KPAH.vcxproj -> D:\Programmy\С++\вуз\KPAH ver  21.02.19 xp x86_32E2\.\Release\KPAH.exe
+  KPAH.vcxproj -> .\Release/KPAH.pdb (Full PDB)
